@@ -48,27 +48,20 @@ Effective division of labour and regular communication were crucial to our succe
 ### Dataset
 The dataset used in this project can be found [here](https://www.kaggle.com/datasets/madhucharan/alzheimersdisease5classdatasetadni/data).
 
-### Evaluation Plots
-Refer to the provided link for evaluation plots and further details.
-
 ## Usage
 
 To use the code provided in this repository:
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Fruitkeeper/CNN-to-predict-Alzheimer.git
     ```
 2. Navigate to the project directory.
     ```bash
-    cd your-repo-name
+    cd CNN-to-predict-Alzheimer
     ```
-3. Install the required dependencies.
+3. Run the Jupyter Notebook to see the complete implementation.
     ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the Jupyter Notebook to see the complete implementation.
-    ```bash
-    jupyter notebook Machine_Learning_Project_Alzehimer's_(3).ipynb
+    jupyter notebook Alzheimer_project.ipynb
     ```
 
 Feel free to contribute to this project by creating issues or submitting pull requests.
